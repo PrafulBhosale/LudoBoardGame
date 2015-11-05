@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GreenPlayer()
+comment1.params=t
+comment1.target=void\ setTokensReachedAtGoal(int)
+comment2.params=
+comment2.target=int\ getTokensReachedAtGoal()
+comment3.params=homeX\ homeY
+comment3.target=GreenPlayer(int,\ int)
+comment4.params=
+comment4.target=void\ setPathCoordinates()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

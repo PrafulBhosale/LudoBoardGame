@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=note
+comment0.target=Scoreboard(java.lang.String)
+comment1.params=note
+comment1.target=void\ setNotification(java.lang.String)
+numComments=2

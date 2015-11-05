@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dice()
+comment1.params=
+comment1.target=int\ throwDice()
+comment2.params=t
+comment2.target=void\ playDice(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ GameOver()
+comment5.params=cls\ score\ note
+comment5.target=void\ setPlayerNotification(java.lang.Class,\ int,\ java.lang.String)
+comment6.params=cls
+comment6.target=void\ setTurnImage(java.lang.Class)
+comment7.params=
+comment7.target=int\ rollDice()
+comment8.params=cls\ s
+comment8.target=void\ movePlayer(java.lang.Class,\ int)
+numComments=9

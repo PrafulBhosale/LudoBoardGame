@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=Text(java.lang.String)
+comment1.params=text\ x\ y
+comment1.target=Text(java.lang.String,\ int,\ int)
+comment2.params=text
+comment2.target=void\ setText(java.lang.String)
+comment3.params=x\ y
+comment3.target=void\ setLocation(int,\ int)
+numComments=4
